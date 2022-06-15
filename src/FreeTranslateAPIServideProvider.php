@@ -14,6 +14,7 @@ class FreeTranslateAPIServideProvider extends ServiceProvider
     public function register()
     {
         //
+        $this->app->make('Charef\FreeTranslateApi\TranslateAPI');
     }
 
     /**

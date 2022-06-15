@@ -1,5 +1,6 @@
 <?php
 
+namespace Charef\FreeTranslateApi;
 
 /**
  * TranslateAPI.class.php
@@ -23,6 +24,13 @@
  */
 class TranslateAPI
 {
+
+
+
+    public function test()
+    {
+        dd("test");
+    }
     /**
      * Retrieves the translation of a text
      *
