@@ -1,0 +1,19 @@
+{
+    "name": "charef/free-translate-api",
+    "description": "Simple laravel package  for talking to Google's Translate API for free.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Charef\\FreeTranslateApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ayoub",
+            "email": "ayouubcharef@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
