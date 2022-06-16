@@ -1,5 +1,3 @@
-# Copyright
-Inspired by [Adrián Barrio Andrés](https://github.com/statickidz). Added following Jeffrey Ωmega's request.
 
 ## Installation
 
@@ -47,3 +45,5 @@ public function translate()
     dd($result);
 }
 ```
+# thanks to 
+[Adrián Barrio Andrés](https://github.com/statickidz).
