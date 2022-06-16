@@ -11,7 +11,7 @@ Inspired by [Adrián Barrio Andrés](https://github.com/statickidz). Added follo
 
 First, pull in the package through Composer.
 
-Run `composer require Charef\FreeTranslateApi`
+Run `composer require charef/free-translate-api`
 
 And then, if using Laravel 5, include the service provider within `config/app.php`.
 
