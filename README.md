@@ -1,7 +1,7 @@
 
 [![Issues](	https://img.shields.io/github/issues/charef00/free-translate-api?style=flat-square)](https://github.com/charef00/free-translate-api/issues)
 [![Stars](	https://img.shields.io/github/stars/charef00/free-translate-api?style=flat-square)](https://github.com/charef00/free-translate-api/stargazes)
-[![Issues](	https://img.shields.io/github/issues/charef00/free-translate-api?style=flat-square)](https://github.com/charef00/free-translate-api/releases)
+[![Forks](	https://img.shields.io/github/forks/charef00/free-translate-api?style=flat-square)](https://github.com/charef00/free-translate-api/forks)
 
 ## Installation
 
