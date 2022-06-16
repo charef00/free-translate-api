@@ -27,7 +27,7 @@ class TranslateAPI
 
 
 
-    public function test()
+    public static function test()
     {
         dd("test");
     }
