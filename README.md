@@ -1,4 +1,5 @@
 
+[![Issues](	https://img.shields.io/github/issues/charef00/free-translate-api?style=flat-square)](https://github.com/charef00/free-translate-api/releases)
 ## Installation
 
 ### Video Tutorial
