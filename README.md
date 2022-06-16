@@ -11,7 +11,7 @@ First, pull in the package through Composer.
 
 Run `composer require charef/free-translate-api`
 
-And then, if using Laravel 5, include the service provider within `config/app.php`.
+And then, if using Laravel 5 or >, include the service provider within `config/app.php`.
 
 ```php
 'providers' => [
