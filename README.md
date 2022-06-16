@@ -5,7 +5,7 @@ Inspired by [Adrián Barrio Andrés](https://github.com/statickidz). Added follo
 
 ### Video Tutorial
 
-[Watch a Video Tutorial here](https://www.youtube.com/watch?v=GXMLd7F9o94)
+[Watch a Video Tutorial here](https://packagist.org/packages/charef/free-translate-api)
 
 ### You like text ?
 
