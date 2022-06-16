@@ -5,7 +5,7 @@
 
 [Watch a Video Tutorial here](https://packagist.org/packages/charef/free-translate-api)
 
-### You like text ?
+### You need to translate your text ?
 
 First, pull in the package through Composer.
 
